@@ -1,0 +1,26 @@
+{
+  "name": "inicis-react-native",
+  "version": "0.0.0",
+  "description": "KG Inicis payment module for React-Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatSumini/inicis-react-native.git"
+  },
+  "keywords": [
+    "kg",
+    "inicis",
+    "payment",
+    "react-native",
+    "typescript"
+  ],
+  "author": "greatSumini <greatSumini@gmail.com> (https://sumini.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greatSumini/inicis-react-native/issues"
+  },
+  "homepage": "https://github.com/greatSumini/inicis-react-native#readme"
+}
